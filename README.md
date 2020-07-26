@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome, This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This is  areact-redux webapp using firebase 🔥 as backend for authorization, firestore, cloud functions and hosting. The objective of this project is projects within a team.
 
 ## Available Scripts
 
